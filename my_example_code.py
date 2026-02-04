@@ -22,3 +22,4 @@ def function_3():
 
 if __name__ == "__main__":
     print("This script contains code examples.")
+    print("Example division: ", function_3())
