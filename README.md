@@ -1,3 +1,3 @@
 # test-repo
 
-test change
+This is a test repo.
